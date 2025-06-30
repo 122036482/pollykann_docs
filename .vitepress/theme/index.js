@@ -2,6 +2,7 @@
 // VitePress is pre-configured with @vitejs/plugin-vue.
 // import DefaultTheme from "vitepress/theme";
 import Layout from "../components/Layout.vue";
+import "./styles.css";
 
 export default {
   Layout,
