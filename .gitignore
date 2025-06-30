@@ -1,6 +1,6 @@
 # VitePress
-docs/.vitepress/cache/
-docs/.vitepress/dist/
+.vitepress/cache/
+.vitepress/dist/
 # Node.js
 node_modules/
 npm-debug.log*
