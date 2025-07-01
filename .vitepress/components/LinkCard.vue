@@ -44,12 +44,28 @@ function handleOk() {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 16px;
+    padding: 4px;
     border-radius: 8px;
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease;
     cursor: pointer;
+    animation: scale—up 3s ease-out infinite;
+}
+
+@keyframes scale—up {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+
 }
 
 .link-card:hover {
@@ -57,11 +73,15 @@ function handleOk() {
 }
 
 .link-card-content {
+    background: #f8f8fa;
+    height: 60px;
+    padding: 15px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 8px;
+    border-radius: 10px;
 }
 
 .link-card-title {

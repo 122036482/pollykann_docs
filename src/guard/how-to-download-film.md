@@ -19,10 +19,6 @@
 
 rarbg下载视频教程
 
-<script setup>
-import CustomComponent from '../../.vitepress/components/LinkCard.vue'
-</script>
-
 
 <VideoPlay />
 

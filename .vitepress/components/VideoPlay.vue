@@ -1,6 +1,14 @@
 <template>
-    <div class="polly_video_player">
-        <video ref="videoPlayer" class="video-js"></video>
+    <div>
+        <div class="polly_video_player">
+            <video ref="videoPlayer" class="video-js"></video>
+        </div>
+
+        <div class="video-description" v-if="des">
+
+            {{ des }}
+
+        </div>
     </div>
 </template>
 
@@ -15,6 +23,10 @@ export default {
             default() {
                 return 'https://video.pollykann.com/da1.5x.mp4';
             }
+        },
+        des: {
+            type: String,
+
         }
     },
     data() {
@@ -49,6 +61,7 @@ export default {
 
 <style>
 .polly_video_player {
+    margin: 20px 0;
     width: 100%;
     aspect-ratio: 16 / 9;
 }
@@ -56,5 +69,11 @@ export default {
 .video-js {
     width: 100%;
     height: 100%;
+}
+
+.video-description {
+    text-align: center;
+    font-size: 14px;
+    color: rgb(145, 150, 161)
 }
 </style>
