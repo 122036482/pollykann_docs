@@ -21,6 +21,10 @@ export default defineConfig({
           text: "指南",
           items: [
             { text: "如何免费下载影视剧", link: "/guard/how-to-download-film" },
+            {
+              text: "导入视频和字幕的方法",
+              link: "/guard/import-video-and-sub",
+            },
           ],
         },
       ],
