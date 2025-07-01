@@ -15,15 +15,16 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
+    sidebar: {
+      "/guard/": [
+        {
+          text: "指南",
+          items: [
+            { text: "如何免费下载影视剧", link: "/guard/how-to-download-film" },
+          ],
+        },
+      ],
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
