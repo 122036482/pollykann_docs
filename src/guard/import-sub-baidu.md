@@ -65,7 +65,7 @@ title: android版小鹦看看（pollykann）app，如何导入百度网盘的视
 
 > 导入流程视频：
 
-<VideoPlay url="https://vdn6.vzuu.com/HD/4e300730-5114-11ed-b23c-ca1ba0e01376-v8_t21-wkvrpVcg5k.mp4?pkey=AAUTttrHO-lETzD4_-6OuTsNfGrGeqMym5ilr9D99TjN3c38nKSZMZBsUCM2304O-e3-EVRelt-8Q0iHCDI1b2Ly&bu=1513c7c2&c=avc.8.0&expiration=1751453782&f=mp4&pu=e59e796c&v=ks6&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu" description=""/> 
+<VideoPlay url="https://s.pollykann.com/d1/ba28f8811d29fda103e46cd4a27f81a7.mp4" description=""/> 
 
 
 

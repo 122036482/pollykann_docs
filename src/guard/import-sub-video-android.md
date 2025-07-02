@@ -25,7 +25,7 @@ Android版才有此功能，苹果版暂时没有！
 
 操作视频：
 
-<VideoPlay url="https://vdn6.vzuu.com/HD/f5660d1c-511c-11ed-882d-d676624dbf18-v8_t21-wkv5fE8HnO.mp4?pkey=AAUjaLG3ji8Pz1d_kYO09jpEkdu4BQVE0L6gz6rIIZigf1LHuR-GUpa7hDMPmAZgqE_1pGVL1RcyEvwo3QAsOV-u&bu=1513c7c2&c=avc.8.0&expiration=1751456089&f=mp4&pu=e59e796c&v=ks6&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu" description="操作视频教程"/> 
+<VideoPlay url="https://s.pollykann.com/d1/0a0367a951f9978e68f33efa536dd7f8.mp4" description="操作视频教程"/> 
 
 
 ## 1、切换到“文件”切换卡，点击右上角的“+”按钮

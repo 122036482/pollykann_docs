@@ -3,8 +3,9 @@
 layout: home
 
 hero:
-  title: 小鹦看看
-  tagline: "小鹦看看官方操作指南"
+  name: 小鹦看看
+  text: 小鹦看看官方操作指南
+  tagline: 这里集合了如何下载影片，如何传输影片到小鹦看看，如何在小鹦看看里添加外挂字幕，如何观看youtube视频, 功能演示等一些用户常见问题
   image:
     src: /logo.png
     alt: 小鹦看看
