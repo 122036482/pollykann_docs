@@ -9,8 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-      { text: "指南", link: "/guard/how-to-download-film" },
+      { text: "问题", link: "/qa" },
+      { text: "指南", link: "/guard" },
     ],
     search: {
       provider: "local",
@@ -60,9 +60,17 @@ export default defineConfig({
           ],
         },
       ],
+      "/qa/": [
+        {
+          text: "问题合集",
+          items: [
+            { text: "一个账号可以登录多个设备吗？", link: "/qa/open-methods" },
+          ],
+        },
+      ],
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/122036482/pollykann_docs" },
     ],
   },
 });
