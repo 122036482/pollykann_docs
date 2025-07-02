@@ -39,7 +39,7 @@ function goTo(link) {
     color: var(--vp-c-text-1, #1e293b);
     display: flex;
     flex-direction: column;
-    min-height: 160px;
+    min-height: 100px;
     box-shadow: 0 2px 8px 0 rgba(30, 41, 59, 0.06);
     border: 1px solid var(--vp-c-divider, #e5e7eb);
     transition: box-shadow 0.18s, transform 0.15s, border-color 0.18s;
