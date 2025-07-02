@@ -5,6 +5,7 @@ import Layout from "../components/Layout.vue";
 import VideoPlay from "../components/VideoPlay.vue";
 import ImageCard from "../components/ImageCard.vue";
 import LinkCard from "../components/LinkCard.vue";
+import NavCard from "../components/NavCard.vue";
 
 // import "ant-design-vue/dist/antd.css";
 import "./styles.css";
@@ -18,6 +19,7 @@ export default {
     app.component("VideoPlay", VideoPlay);
     app.component("ImageCard", ImageCard);
     app.component("LinkCard", LinkCard);
+    app.component("NavCard", NavCard);
     // ...
   },
 };

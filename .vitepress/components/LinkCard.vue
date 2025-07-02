@@ -93,4 +93,14 @@ function handleOk() {
 .link-card-icon {
     font-size: 20px;
 }
+
+:root.dark .link-card {
+    background: #000;
+
+}
+
+:root.dark .link-card-content {
+    background-color: #18181c;
+    color: #fff;
+}
 </style>

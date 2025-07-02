@@ -57,6 +57,34 @@ export default defineConfig({
               text: "如何在PC上使用小鹦看看",
               link: "/guard/use-pc",
             },
+            {
+              text: "百度网盘视频如何用小鹦看看打开-苹果版",
+              link: "/guard/open-baidu",
+            },
+            {
+              text: "苹果版手机迅雷如何导入视频和字幕到小鹦看看",
+              link: "/guard/import-video-and-sub-xunlei",
+            },
+            {
+              text: "如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)",
+              link: "/guard/import-video-usb-pc",
+            },
+            {
+              text: "百度网盘App视频和字幕如何导入小鹦看看-安卓版",
+              link: "/guard/import-sub-baidu",
+            },
+            {
+              text: "安卓版小鹦看看如何通过BT种子或者磁力链接下载视频？",
+              link: "/guard/import-bt-android",
+            },
+            {
+              text: "安卓版手机迅雷如何导入视频和字幕到小鹦看看",
+              link: "/guard/import-xunlei-android",
+            },
+            {
+              text: "电脑端视频和字幕如何传输到小鹦看看-安卓版",
+              link: "/guard/import-sub-video-android",
+            },
           ],
         },
       ],
