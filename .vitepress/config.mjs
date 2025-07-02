@@ -96,9 +96,7 @@ export default defineConfig({
       "/qa/": [
         {
           text: "问题合集",
-          items: [
-            { text: "一个账号可以登录多个设备吗？", link: "/qa/open-methods" },
-          ],
+          items: [{ text: "常见问题", link: "/qa/open-methods" }],
         },
       ],
     },
