@@ -12,6 +12,7 @@ export default defineConfig({
       { text: "问题", link: "/qa" },
       { text: "指南", link: "/guard" },
     ],
+    ignoreDeadLinks: true,
     search: {
       provider: "local",
     },
@@ -84,6 +85,10 @@ export default defineConfig({
             {
               text: "电脑端视频和字幕如何传输到小鹦看看-安卓版",
               link: "/guard/import-sub-video-android",
+            },
+            {
+              text: "Android手机如何投屏手机画面到电视",
+              link: "/guard/fast-screen-android",
             },
           ],
         },

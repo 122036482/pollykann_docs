@@ -10,6 +10,9 @@
 
 安卓版本参考下面的链接：
 
+<NavCard title="安卓版小鹦看看如何快速投屏" link="/guard/fast-screen-android"  />
+
+
 ## 苹果投屏方法
 
 > PS: iPhone和iPad的操作方法都一样的操做

@@ -78,6 +78,9 @@ function goTo(link) {
 .link-card-logo {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+
 }
 
 .link-card-title-box {

@@ -9,11 +9,11 @@
 > PS：电脑端迅雷需要将文件下载到电脑，然后参考下面这篇文章将文件传输到小鹦看看：
 
 
-<NavCard title="如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)" link="/guard/import-video-and-sub" icon="https://picx.zhimg.com/v2-16cf3e3534d40005e71b460dbf499dd4_r.jpg?source=172ae18b" />
+<NavCard title="如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)" link="/guard/import-video-usb-pc" icon="https://picx.zhimg.com/v2-16cf3e3534d40005e71b460dbf499dd4_r.jpg?source=172ae18b" />
 
 > **安卓版手机迅雷** 传输方法参考：
 
-<NavCard title="安卓版手机迅雷如何导入视频和字幕到小鹦看看" link="/guard/import-video-and-sub" icon="https://picx.zhimg.com/v2-9d6ea1f83347c62fcc1e16981123b82b.jpeg?source=7e7ef6e2&needBackground=1" />
+<NavCard title="安卓版手机迅雷如何导入视频和字幕到小鹦看看" link="/guard/import-xunlei-android" icon="https://picx.zhimg.com/v2-9d6ea1f83347c62fcc1e16981123b82b.jpeg?source=7e7ef6e2&needBackground=1" />
 
 
 ## 进入主题：
