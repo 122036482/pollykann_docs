@@ -5,6 +5,66 @@ export default defineConfig({
   srcDir: "src",
   title: "小鹦看看",
   description: "小鹦看看官方操作指南",
+  head: [
+    ["link", { rel: "icon", href: "/logo.png" }],
+    [
+      "meta",
+      {
+        name: "description",
+        content:
+          "「小鸚看看」— AI英语视频学习助手，智能字幕+生词分析+变速播放，通过电影/美剧/TED高效提升听力、口语、词汇。立即体验！",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content:
+          "英语学习APP,视频学英语,智能英语学习,听力训练,口语练习,词汇记忆,电影学英语,美剧学英语,TED学习,YouTube学英语,AI字幕,变速播放,生词本,英语学习工具,小鸚看看",
+      },
+    ],
+    [
+      "meta",
+      { property: "og:title", content: "小鸚看看 - 智能英语视频学习助手" },
+    ],
+    [
+      "meta",
+      {
+        property: "og:description",
+        content:
+          "用AI技术通过电影/美剧/TED视频高效学习英语，智能字幕+生词分析+变速播放，提升听力口语词汇能力",
+      },
+    ],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:url", content: "https://www.pollykann.com" }],
+    [
+      "meta",
+      {
+        property: "og:image",
+        content: "https://www.pollykann.com//pollykann.png",
+      },
+    ],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    [
+      "meta",
+      { name: "twitter:title", content: "小鸚看看 - 智能英语视频学习助手" },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:description",
+        content:
+          "用刷剧的方式学英语！AI智能字幕解析+生词分析，电影/美剧/TED视频高效学习英语",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:image",
+        content: "https://www.pollykann.com//pollykann.png",
+      },
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -12,6 +72,7 @@ export default defineConfig({
       { text: "问题", link: "/qa" },
       { text: "指南", link: "/guard" },
       { text: "功能演示", link: "/feature" },
+      { text: "下载", link: "https://www.pollykann.com" },
     ],
     ignoreDeadLinks: true,
     search: {
