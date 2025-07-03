@@ -20,7 +20,7 @@ features:
     linkText: 查看更多
   - icon: 🎥
     title: 功能演示
-    link: /demo
+    link: /feature
     linkText: 查看更多
 ---
 

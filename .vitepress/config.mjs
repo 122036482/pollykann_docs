@@ -11,6 +11,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "问题", link: "/qa" },
       { text: "指南", link: "/guard" },
+      { text: "功能演示", link: "/feature" },
     ],
     ignoreDeadLinks: true,
     search: {
@@ -103,5 +104,9 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/122036482/pollykann_docs" },
     ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2025-present Pollykann",
+    },
   },
 });
