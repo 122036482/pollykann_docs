@@ -42,12 +42,12 @@ export default [
     link: "/guard/download-sub-pc",
     btn: "查看详情",
   },
-  {
-    title: "用AI制作字幕",
-    desc: "",
-    link: "https://www.33subs.com/blog/free_generate_video_subtitle",
-    btn: "查看详情",
-  },
+  // {
+  //   title: "用AI制作字幕",
+  //   desc: "",
+  //   link: "https://www.33subs.com/blog/free_generate_video_subtitle",
+  //   btn: "查看详情",
+  // },
   {
     title: "如何快速投屏",
     desc: "",

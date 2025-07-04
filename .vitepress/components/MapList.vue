@@ -16,6 +16,10 @@ import items from './maplistData.js'
 
 const router = useRouter()
 function goTo(link) {
+    if (link.includes('http')) {
+        window.open(link, '_blank');
+        return;
+    }
     router.go(link)
 }
 </script>
