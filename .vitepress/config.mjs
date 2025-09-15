@@ -8,6 +8,19 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/logo.png" }],
     [
+      "script",
+      { type: "text/javascript" },
+      `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?e265f77909812f94845446a21dbd86a8";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+`,
+    ],
+    [
       "meta",
       {
         name: "description",
