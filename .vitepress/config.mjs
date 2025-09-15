@@ -9,7 +9,7 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/logo.png" }],
     [
       "script",
-      { type: "text/javascript" },
+      { type: "text/javascript", async: true },
       `
         var _hmt = _hmt || [];
         (function() {
