@@ -2,6 +2,11 @@
    title: 免费下载资源合集
 ---
 
+<script setup>
+import { PlaySquareOutlined } from '@ant-design/icons-vue';
+import { showVideo } from '../../.vitepress/utils/videoPlayer';
+</script>
+
 # 免费下载资源合集
 > [!CAUTION]特别说明:
 > 1. 下面的网站把地址复制到电脑浏览器打开 （不要在微信或者知乎里点击跳转否则会被拦截）
@@ -12,16 +17,21 @@
 
 ## 优质影视和字幕下载网站
 
+### 推荐👍 
+ 
+1. [https://www.ostmovie.net/](https://www.ostmovie.net/)(无广告弹窗，百度网盘链接，少量费用，中文搜索) 
+2. <AButton size="small" @click="showVideo({ src: 'https://s.pollykann.com/d1/6ecf712277bf59614b11478734e4e9c6.MP4' })">查看视频教程<template #icon><PlaySquareOutlined /></template></AButton> 
+   
 ### 电影
 
 > 这个网站的电影资源文件小，画质好 👍
-> 
+
+
 [https://yts.torrentbay.st](https://yts.torrentbay.st)(仅英文搜索)
 
 ### 电影和电视剧
 
 1. [https://www2.rarbggo.to/](https://www2.rarbggo.to/)(仅英文搜索)
-2. [https://www.1377x.to/](https://www.1377x.to/)(仅英文搜索)
 
 
 ### 国内影视剧

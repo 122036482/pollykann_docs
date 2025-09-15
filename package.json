@@ -5,10 +5,11 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "video.js": "^8.23.3",
+    "video.js": "^8.23.4",
     "vitepress": "^1.6.3"
   },
   "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
     "ant-design-vue": "^4.2.6"
   }
 }

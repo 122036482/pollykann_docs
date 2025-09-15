@@ -6,6 +6,8 @@ import VideoPlay from "../components/VideoPlay.vue";
 import ImageCard from "../components/ImageCard.vue";
 import LinkCard from "../components/LinkCard.vue";
 import NavCard from "../components/NavCard.vue";
+import GlobalVideoPlayer from "../components/GlobalVideoPlayer.vue";
+import { Button } from "ant-design-vue";
 
 // import "ant-design-vue/dist/antd.css";
 import "./styles.css";
@@ -20,6 +22,8 @@ export default {
     app.component("ImageCard", ImageCard);
     app.component("LinkCard", LinkCard);
     app.component("NavCard", NavCard);
+    app.component("AButton", Button);
+    app.component("GlobalVideoPlayer", GlobalVideoPlayer);
     // ...
   },
 };
