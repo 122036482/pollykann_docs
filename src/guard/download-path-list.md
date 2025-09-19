@@ -20,7 +20,7 @@ import { showVideo } from '../../.vitepress/utils/videoPlayer';
 ### 推荐👍 
  
 1. [https://www.ostmovie.net/](https://www.ostmovie.net/)(无广告弹窗，百度网盘链接，少量费用，中文搜索) 
-2. <AButton size="small" @click="showVideo({ src: 'https://s.pollykann.com/d1/6ecf712277bf59614b11478734e4e9c6.MP4' })">查看视频教程<template #icon><PlaySquareOutlined /></template></AButton> 
+2. <AButton size="small" @click="showVideo({ src: 'https://u.pollykann.com/d1/e191ef2a6f88e0ea581a3496bac50332.MP4' })">查看视频教程<template #icon><PlaySquareOutlined /></template></AButton> 
    
 ### 电影
 
