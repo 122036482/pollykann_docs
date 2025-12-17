@@ -47,6 +47,6 @@
 
 在弹出的 **【共享】** 面板中，找到 **【小鹦看看】**
 
-<ImageCard imageSrc="https://pic4.zhimg.com/v2-d22f31ed7b4b8263c8a806c624c4dfd9_1440w.jpg" description=""/>
+<ImageCard imageSrc="https://pic3.zhimg.com/v2-34d67513c7ad424e7bb5cada81b41588_1440w.jpg" description=""/>
 
 
