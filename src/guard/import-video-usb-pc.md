@@ -2,19 +2,19 @@
 title: 如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)
 ---
 
-# 如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)
+### [如何从Windows电脑传输文件到苹果版小鹦看看](#windows)
 
-2021.03更新
+
+### [如何从Mac电脑传输文件到苹果版小鹦看看](#mac)
+
+
 
 如何从电脑(Mac和Windows PC)传输文件到ios设备(iPhone/iPad)呢？方法有很多，如果你用的是苹果电脑，最方便的办法是使用AirDrop，[关于AirDrop如何传输文件请看这篇 在 Mac 上使用“隔空投送”](https://support.apple.com/zh-cn/guide/mac-help/mh35868/mac) 。
 
 > 但MAC要传输文件到指定App的话，Airdrop稍微复杂点，最好的办法还是用USB
 
 
-
-今天老罗就分别介绍在 **Windows和Mac电脑下如何通过USB数据线传输文件。**
-
-## Windows PC传输
+## Windows PC传输{#windows}
 
 - 安装最新版本的iTunes
 - 打开iTunes，用USB数据线连接上你的iPhone/iPad（第一次连接ios端要输入密码）
@@ -28,7 +28,7 @@ title: 如何从电脑用USB数据线传输文件到iPhone/iPad(Mac和Windows)
 
 <ImageCard imageSrc="https://pic2.zhimg.com/v2-dbda66005fe7a0b2e8845ed7f0037909_1440w.jpg" description=""/>
 
-## Mac电脑传输
+## Mac电脑传输{#mac}
 
 > PS: macOS 10.14 或更早版本传输方式，参考Windows传输方式，或者 [通过 iTunes 在 Mac 和 iOS App 间传输文件](https://support.apple.com/zh-cn/guide/itunes/itns32636/12.9/mac/10.14)
 
