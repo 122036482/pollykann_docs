@@ -12,20 +12,13 @@ title: 小鹦看看添加字幕
 
 ## 1. 观看视频：如何在线添加字幕
 
-<div style="background: #fff; border-radius: 12px; padding: 14px 16px; margin-top: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
 
-在小鹦看看中，您可以直接为视频<span style="font-weight: 600; color: #d97706;">在线搜索并添加字幕</span>，无需手动下载字幕文件。
 
 <VideoPlay url="https://u.pollykann.com/d1/5da518c55eb9bcf491b089db879756f4.mp4" des="如何在线添加字幕"/>
 
-</div>
 
 ## 2. 观看视频：如何搜索并下载字幕
 
-<div style="background: #fff; border-radius: 12px; padding: 14px 16px; margin-top: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-
-如果您已经在网上找到字幕文件，也可以先下载字幕，再通过小鹦看看进行匹配使用。
 
 <VideoPlay url="https://u.pollykann.com/d1/1dd20f056b8afc8db6b80cad583b08e0.mp4" des="如何搜索并下载字幕"/>
 
-</div>
