@@ -29,7 +29,3 @@ title: 小鹦看看添加字幕
 <VideoPlay url="https://u.pollykann.com/d1/1dd20f056b8afc8db6b80cad583b08e0.mp4" des="如何搜索并下载字幕"/>
 
 </div>
-
-<div style="margin-top: 32px; font-size: 12px; color: #888; text-align: center;">
-小鹦看看 · Pollykann
-</div>
