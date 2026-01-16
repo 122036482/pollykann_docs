@@ -17,7 +17,7 @@ title: 小鹦看看添加字幕
 <VideoPlay url="https://u.pollykann.com/d1/5da518c55eb9bcf491b089db879756f4.mp4" des="如何在线添加字幕"/>
 
 
-## 2. 观看视频：如何搜索并下载字幕
+## 2. 观看视频：如何在电脑上下载字幕
 
 
 <VideoPlay url="https://u.pollykann.com/d1/1dd20f056b8afc8db6b80cad583b08e0.mp4" des="如何搜索并下载字幕"/>
