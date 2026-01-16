@@ -2,7 +2,7 @@
 title: 小鹦看看快速添加字幕教程
 ---
 
-# 小鹦看看添加字幕
+# 小鹦看看快速添加字幕教程
 
 关于什么是外挂字幕，[可以点这里进行了解](https://www.pollykann.com/subtitle-introduce.html)。
 
