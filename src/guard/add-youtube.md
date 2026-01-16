@@ -1,5 +1,5 @@
 ---
-  title: 小鹦看看观看Youtube视频方法
+title: 小鹦看看观看Youtube视频方法
 ---
 
 # 小鹦看看观看Youtube视频方法

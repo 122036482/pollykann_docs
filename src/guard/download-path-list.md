@@ -1,5 +1,5 @@
 ---
-   title: 免费下载资源合集
+title: 免费下载资源合集
 ---
 
 <script setup>
