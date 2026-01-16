@@ -2,3 +2,12 @@
   width: 100px;
   height: 100px;
 }
+.dark .video-title {
+  color: white;
+}
+.video-title {
+  margin: 26px 0;
+  color: black;
+  padding-left: 10px;
+  border-left: 4px solid #60a5fa;
+}
