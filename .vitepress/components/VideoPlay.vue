@@ -26,7 +26,10 @@ export default {
         },
         des: {
             type: String,
-
+        },
+        poster: {
+            type: String,
+            default: '',
         }
     },
     data() {
@@ -36,6 +39,8 @@ export default {
                 controls: true,
                 autoplay: false,
                 preload: 'auto',
+                // 封面
+                poster: this.poster,
             }
         }
     },

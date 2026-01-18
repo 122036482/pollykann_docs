@@ -13,10 +13,10 @@ title: 小鹦看看快速添加字幕教程
 <div style="font-weight: 700; font-size: 18px;" class="video-title">App内搜索添加字幕</div>
 
 
-<VideoPlay url="https://u.pollykann.com/d1/5da518c55eb9bcf491b089db879756f4.mp4" des="App内搜索添加字幕"/>
+<VideoPlay url="https://u.pollykann.com/d1/5da518c55eb9bcf491b089db879756f4.mp4" poster="https://u.pollykann.com/d1/72038378f89d501fe6e102d74ae50016.jpg" des="App内搜索添加字幕"/>
 
 
 <div style="font-weight: 700; font-size: 18px;" class="video-title">从电脑端下载字幕</div>
 
-<VideoPlay url="https://u.pollykann.com/d1/1dd20f056b8afc8db6b80cad583b08e0.mp4" des="从电脑端下载字幕"/>
+<VideoPlay url="https://u.pollykann.com/d1/1dd20f056b8afc8db6b80cad583b08e0.mp4" poster="https://u.pollykann.com/d1/9533c45a6032447a3b0dd65add500707.jpg" des="从电脑端下载字幕"/>
 
