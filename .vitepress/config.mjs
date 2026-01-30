@@ -163,6 +163,10 @@ export default defineConfig({
               link: "/guard/import-sub-video-android",
             },
             {
+              text: "从电脑导入文件到Android手机App",
+              link: "/guard/pc-to-android",
+            },
+            {
               text: "Android手机如何投屏手机画面到电视",
               link: "/guard/fast-screen-android",
             },
