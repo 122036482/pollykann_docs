@@ -9,7 +9,6 @@ title: 操作指南
 <script setup>
 import MapList from "../../.vitepress/components/MapList.vue";
 </script>
-
 <MapList />
 
 <ImageCard imageSrc="https://video.pollykann.com/jpg/app_desc-X0DNYhnq.jpg" description=""/> 
