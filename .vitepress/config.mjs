@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "src",
+  base: "/",
   title: "小鹦看看",
   description: "小鹦看看官方操作指南",
   head: [

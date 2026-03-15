@@ -1,8 +1,8 @@
 {
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:build": "vitepress build --outDir dist",
+    "docs:preview": "vitepress preview --base /dist"
   },
   "devDependencies": {
     "video.js": "^8.23.4",

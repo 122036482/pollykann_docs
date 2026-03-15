@@ -3,9 +3,12 @@ title: 迅雷下载电影方法
 ---
 
 # 迅雷下载电影方法
+## 视频教程 （推荐）
 
+<VideoPlay url="https://u.pollykann.com/d1/882c02ecbe8f8050553d8ce019f2591e.mp4"/>
 迅雷下载超级简单, 首先在 迅雷官网 下载并安装迅雷。
 
+## 图文教程
 1. 打开迅雷，点击右上角的+号，选择“添加链接”
 
 <ImageCard imageSrc="https://pic2.zhimg.com/v2-79b0d5b71e17fdfad7691e3c68d8c3ad_1440w.jpg" description=""/>
