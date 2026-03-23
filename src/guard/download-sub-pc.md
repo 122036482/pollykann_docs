@@ -1,5 +1,6 @@
 ---
 title: 电脑端下载字幕方法
+lastUpdated: true
 ---
 
 # 电脑端下载字幕方法

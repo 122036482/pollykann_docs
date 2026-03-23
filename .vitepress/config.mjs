@@ -109,8 +109,12 @@ export default defineConfig({
               link: "/guard/download-bt",
             },
             {
-              text: "迅雷下载电影方法",
+              text: "迅雷下载电影方法(手机版)",
               link: "/guard/download-xunlei",
+            },
+            {
+              text: "迅雷下载电影方法(电脑版)",
+              link: "/guard/download-xunlei-pc",
             },
             {
               text: "小鹦看看添加外挂字幕方法",
