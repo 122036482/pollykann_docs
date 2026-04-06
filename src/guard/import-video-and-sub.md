@@ -31,13 +31,18 @@ title: "导入视频和字幕的方法"
 <ImageCard imageSrc="https://pic4.zhimg.com/v2-53c952f072816a96205e24de4f729769_1440w.jpg" description="小鹦看看ios-wifi传输文件流程"/>
 
 
-## 四、安卓-百度网盘App
+## 四、苹果-如何导入视频和字幕到小鹦看看-Mac端
+> 找到你下载的视频和字幕文件，将文件拖拽到小鹦看看的文件夹中即可
+<VideoPlay url="https://u.pollykann.com/d1/ae61144018e3106cda35bf7dbf599d99.mp4" des="苹果-如何导入视频和字幕到小鹦看看-Mac端"/>
+
+
+## 五、安卓-百度网盘App
 安卓版本小鹦看看导入百度网盘App视频和字幕参考下面的链接
 
 <NavCard title="百度网盘App视频和字幕如何导入小鹦看看-安卓版" link="/guard/import-sub-baidu" icon="https://pica.zhimg.com/v2-8c01378c2a648deb45a2bf2007361d0e.jpg?source=7e7ef6e2&needBackground=1" />
 
 
-## 五、安卓-手机迅雷
+## 六、安卓-手机迅雷
 安卓版小鹦看看现在支持直接下载磁力链接，教程如下：
 
 <NavCard title="安卓版小鹦看看如何通过BT种子或者磁力链接下载视频？" link="/guard/import-bt-android" icon="https://picx.zhimg.com/v2-8d93da258127848807c4e0d38715defb.jpg?source=7e7ef6e2&needBackground=1" />
@@ -47,6 +52,6 @@ title: "导入视频和字幕的方法"
 
 <NavCard title="安卓版手机迅雷如何导入视频和字幕到小鹦看看" link="/guard/import-xunlei-android" icon="https://pic1.zhimg.com/v2-9d6ea1f83347c62fcc1e16981123b82b.jpeg?source=7e7ef6e2&needBackground=1" />
 
-## 六、安卓-电脑端传输
+## 七、安卓-电脑端传输
 电脑端视频和字幕传输到小鹦看看安卓版本请参考下面链接
 <NavCard title="电脑端视频和字幕如何传输到小鹦看看-安卓版" link="/guard/import-sub-video-android" icon="https://pic1.zhimg.com/v2-af55b01725f4196dd3c939f20ba319fb.jpg?source=7e7ef6e2&needBackground=1" />
