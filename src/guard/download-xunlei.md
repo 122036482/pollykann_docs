@@ -9,17 +9,17 @@ lastUpdated: true
 <NavCard
   title="苹果手机/平板教程（视频）"
   link="/guard/download-xunlei-ios"
-  icon="/public/ios-bt.png"
+  icon="https://u.pollykann.com/d1/074251321f99d28298c1e9b966e74ad0.PNG"
 />
 
 <NavCard
   title="安卓手机/平板教程（视频）"
   link="/guard/import-bt-android"
-  icon="/public/android-bt.png"
+  icon="https://u.pollykann.com/d1/c3da63eb57fcec675d1004e4b438a983.PNG"
 />
 
 <NavCard
   title="电脑端下载教程（图文）"
   link="/guard/download-xunlei-pc"
-  icon="/public/window-bt.png"
+  icon="https://u.pollykann.com/d1/a7071790802bab17a53d1de8171520fb.PNG"
 />
