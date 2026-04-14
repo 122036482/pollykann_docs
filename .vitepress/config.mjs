@@ -109,7 +109,7 @@ export default defineConfig({
               link: "/guard/download-bt",
             },
             {
-              text: "迅雷下载电影方法(手机版)",
+              text: "如何下载磁力链接",
               link: "/guard/download-xunlei",
             },
             {
